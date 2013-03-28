@@ -1,8 +1,9 @@
 CODE FACE SYNTAX HIGHLIGHTER
-
-  Author: Donald Sipe <donald.sipe@gmail.com>
-  Website: http://djsipe.com
-  Version: 1.0
+============================
+  
+> *NOTE:* This Wordpress plugin was an experiment born out of frustration with the 
+>  limitations of WordPress to inject syntax highlighting into blog posts.  There are
+>  **far** superior plugins out there.
 
   This plugin is intended to provide on-demand syntax highlighting for
   programming code.  It supports many programming languages.  Code blocks are
